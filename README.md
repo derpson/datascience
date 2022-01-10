@@ -11,4 +11,4 @@ For 2022 I am taking the Data Scientist with Python course on [DataCamp](www.dat
 
 ## Projects
 
-1. Investigating Netflix Movies and Guest Stars in The Office
+1. [Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/workspace/w/a72dc818-61a8-4337-a240-688e0ae355d9)
